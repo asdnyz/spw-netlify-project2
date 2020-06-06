@@ -27,7 +27,7 @@ nav{
 	position: fixed;
 	top: 0;
 	display: flex;
-    justify-content: center;
+    	justify-content: center;
 	box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
 }
 
@@ -63,6 +63,7 @@ h1{
 	padding:0;
 	text-align: center;
 	font-size: 80px;
+	color: #FFF;
 }
 
 h2{
@@ -70,6 +71,7 @@ h2{
 	padding:0;
 	text-align: center;
 	font-size: 40px;
+	color: #FFF;
 }
 
 #section1{
@@ -87,6 +89,7 @@ h2{
 	display:table;
 	width:100%;
 	background: #E5D4CE;
+	color: #111;
 }
 #section3{
 	height: 100%;
