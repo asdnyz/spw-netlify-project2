@@ -3,13 +3,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo');
 
 html{
+	height:100%;
 	scroll-behavior: smooth;
+	margin:0;
 }
 
 body{
 	margin: 0;
 	padding: 0;
 	font-family: 'Heebo', sans-serif;
+	height: 100%;
+}
+
+.wrapper {
+  display: table;
+  height: 100%; width: 100%;
 }
 
 nav{
@@ -54,46 +62,53 @@ h1{
 	margin:100px;
 	padding:0;
 	text-align: center;
-	font-size: 70px;
+	font-size: 80px;
 }
 
 h2{
 	margin:100px;
 	padding:0;
 	text-align: center;
-	font-size: 50px;
+	font-size: 40px;
 }
 
 #section1{
-	height: 700px;
-	background:#FFF;
-	display:inline-block;
+	height: 100%;
+	min-height: 100%;
+	height:auto !important;
+	display:table;
 	width:100%;
-
+	background: #E56399;
 }
 #section2{
-	height: 700px;
-	background:#FFF;
-	display:inline-block;
+	height: 100%;
+	min-height: 100%;
+	height:auto !important;
+	display:table;
 	width:100%;
-
+	background: #E5D4CE;
 }
 #section3{
-	height: 700px;
-	background:#FFF;
-	display:inline-block;
+	height: 100%;
+	min-height: 100%;
+	height:auto !important;
+	display:table;
 	width:100%;
+	background: #DE6E4B;
 }
 #section4{
-	height: 700px;
-	background:#FFF;
-	display:inline-block;
+	height: 100%;
+	min-height: 100%;
+	height:auto !important;
+	display:table;
 	width:100%;
-
+	background: #7FD1B9;
 }
 #section5{
-	height: 700px;
-	background:#FFF;
-	display:inline-block;
+	height: 100%;
+	min-height: 100%;
+	height:auto !important;
+	display:table;
 	width:100%;
+	background: #7A6563;
 }
