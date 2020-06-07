@@ -88,7 +88,7 @@ h2{
 	height:auto !important;
 	display:table;
 	width:100%;
-	background: #b56576;
+	background: #8d99ae;
 	color: #111;
 }
 #section3{
@@ -97,7 +97,8 @@ h2{
 	height:auto !important;
 	display:table;
 	width:100%;
-	background: #8d99ae;
+	background: #b56576;
+	
 }
 #section4{
 	height: 100%;
@@ -105,7 +106,7 @@ h2{
 	height:auto !important;
 	display:table;
 	width:100%;
-	background: #0b2545;
+	background: #e5989b;
 }
 #section5{
 	height: 100%;
@@ -113,5 +114,5 @@ h2{
 	height:auto !important;
 	display:table;
 	width:100%;
-	background: #2f3e46;
+	background: #6d6875;
 }
