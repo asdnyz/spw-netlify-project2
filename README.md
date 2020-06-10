@@ -5,4 +5,4 @@ Single page website - Training - Hosted on Netlify
 https://www.youtube.com/watch?v=_yTW9FvN4N8 ||  https://codepen.io/butsuri/details/xcukz
 
 #hosted on netlify at
-https://spw-june2020.netlify.app/
+https://spw.netlify.app/
